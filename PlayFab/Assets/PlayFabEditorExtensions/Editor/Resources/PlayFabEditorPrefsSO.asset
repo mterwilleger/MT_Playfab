@@ -15,10 +15,10 @@ MonoBehaviour:
   DevAccountEmail: melizaperry@gmail.com
   DevAccountToken: bmzp6fppu6unja7esnkd3bho936771f4jeuomdion7oxuowzzqeoahmua4pqbw546fdgkd3i9nr7sy6x5d36344o1abnrpoknjnx5us3onrgeghxhhzfxerfkmqoz61yxeduzaa6nnwhpw8etaz6tj1tqu8ahb7ytunquu6u8oeg4dj6potz3qbe1ceeq49e6q1ud1ym
   AadAuthorization: 
-  SelectedStudio: PlayFabCourse
+  SelectedStudio: playfab
   SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
   PanelIsShown: 0
-  curMainMenuIdx: 0
+  curMainMenuIdx: 1
   curSubMenuIdx: 0
