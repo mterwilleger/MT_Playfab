@@ -57,9 +57,11 @@ public class PlayerController : MonoBehaviour
 
     void OnTriggerEnter (Collider other)
     {
+        transform.localScale += new Vector3(0.10f, 0.10f, 0.10f);
         //Debug.Log("TRIGGER");
-        if(other.gameObject.CompareTag("Collectable"))
+        if (other.gameObject.CompareTag("Collectable"))
         {
+           
             collectabledPicked++;
             Destroy(other.gameObject);
 
